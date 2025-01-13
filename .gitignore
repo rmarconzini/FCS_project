@@ -172,3 +172,5 @@ cython_debug/
 
 # Dataset
 data/
+
+.DS_store
